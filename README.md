@@ -45,32 +45,6 @@ MVC Architecture • CRUD Operations • RESTful API Development • API Integra
 
 ---
 
-### 💼 Work Experience
-
-**Web Developer** — *Bytezen Technology, Ahmedabad* &nbsp;|&nbsp; Mar 2026 – Present
-- Built and maintained a full-stack Survey & Feedback Management Platform serving a 4-member team using Laravel MVC and RESTful API architecture.
-- Engineered 10+ CRUD modules with server-side form validations, reducing data-entry errors significantly.
-- Optimized MySQL queries and Eloquent ORM relationships, improving database response time for high-volume survey data.
-- Delivered automated report generation feature, cutting manual reporting effort by over 50%.
-- Resolved 20+ bugs and shipped continuous feature updates, maintaining zero critical production issues.
-
-**Web Developer** — *Swing IT Services, Ahmedabad* &nbsp;|&nbsp; May 2024 – Sep 2025
-- Developed and maintained 3+ client web applications using PHP and Laravel, following MVC design patterns and clean code principles.
-- Designed and integrated RESTful APIs for frontend-backend communication, reducing page load time and improving modularity.
-- Delivered end-to-end solutions covering server-side logic, database schema design, and frontend integration using jQuery.
-- Managed complex Eloquent ORM relationships and input validations across 3+ long-term projects without critical failures.
-- Reduced recurring bugs by applying systematic root cause analysis, delivering stable applications to production.
-
----
-
-### 📌 Featured Projects
-
-- **Survey & Feedback Management Platform** — Laravel-based web app to create, manage, and analyze surveys and feedback responses with automated report generation. *(Team of 4, Mar 2026 – Present)*
-- **Compufy Technolab – Company Website** — End-to-end technical implementation of company website. *(Team of 4, Nov 2024 – Aug 2025)*
-- **Swing IT Services – Corporate Website** — Complete technical development including backend logic and frontend integration using Blade & jQuery. *(Team of 2, Jun 2024 – Oct 2024)*
-
----
-
 ### 🎓 Education & Training
 
 - **Bachelor of Computer Applications (BCA)** — Bhakta Kavi Narsinh Mehta University, 2019 – 2022
