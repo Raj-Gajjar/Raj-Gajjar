@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:chandvaniyaraj@gmail.com"><img src="https://img.shields.io/badge/Email-chandvaniyaraj%40gmail.com-red?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/rajchandvaniya/"><img src="https://img.shields.io/badge/LinkedIn-rajchandvaniya-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rajchandvaniya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
