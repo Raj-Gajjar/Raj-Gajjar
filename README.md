@@ -3,18 +3,47 @@
 
 <p align="center">
   <a href="mailto:chandvaniyaraj@gmail.com"><img src="https://img.shields.io/badge/Email-chandvaniyaraj%40gmail.com-red?style=flat&logo=gmail"></a>
-
+  <a href="https://www.linkedin.com/in/rajchandvaniya/"><img src="https://img.shields.io/badge/LinkedIn-rajchandvaniya-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 PHP / Laravel Developer with **1.5+ years** of hands-on experience in full-stack web application development, RESTful API integration, and application maintenance.
-- 💻 Proficient in building scalable, production-ready applications using **Laravel MVC framework** with strong expertise in **MySQL database design**, **Eloquent ORM**, server-side validations, and clean code practices.
-- 🤝 Experienced in collaborative team environments with a strong track record of delivering reliable and maintainable software solutions.
-- 🌱 Currently working at **Bytezen Technology**, building a Survey & Feedback Management Platform.
-- 📍 Based in Ahmedabad, Gujarat, India.
+```php
+<?php
+
+class Raj_Chandvaniya {
+
+    public string $role       = "PHP / Laravel Developer";
+    public string $location   = "Ahmedabad, Gujarat, India";
+    public string $experience = "1.5+ years";
+
+    public array $currentlyWorkingOn = [
+        "Survey & Feedback Management Platform @ Bytezen Technology"
+    ];
+
+    public array $expertise = [
+        "Building scalable, production-ready apps with Laravel MVC",
+        "Designing clean MySQL schemas & Eloquent ORM relationships",
+        "Developing & integrating RESTful APIs",
+        "Writing maintainable, well-validated, bug-free code"
+    ];
+
+    public string $funFact = "Shipped 10+ CRUD modules and squashed 20+ bugs without breaking production 🐛🔨";
+
+    public function motto(): string {
+        return "Clean code today, fewer bugs tomorrow.";
+    }
+}
+```
+
+- 🔭 **1.5+ years** of hands-on experience building full-stack web applications, RESTful APIs, and maintaining production systems.
+- 💻 I love turning messy requirements into **scalable, well-structured Laravel applications** — clean MVC, solid database design, zero shortcuts.
+- 🐞 A bit of a bug-hunter at heart — I enjoy digging into root causes instead of patching symptoms.
+- 🤝 Team player who's shipped projects with teams of 2 to 4 developers, always on schedule.
+- 🌱 Currently building a **Survey & Feedback Management Platform** at Bytezen Technology.
+- 📫 Always open to interesting Laravel/PHP projects — feel free to connect!
 
 ---
 
@@ -55,6 +84,7 @@ MVC Architecture • CRUD Operations • RESTful API Development • API Integra
 ### 📫 Connect with Me
 
 - 📧 Email: chandvaniyaraj@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/rajchandvaniya](https://www.linkedin.com/in/rajchandvaniya/)
 - 📍 Location: Ahmedabad, Gujarat, India
 - 🗣️ Languages: Gujarati, Hindi, English
 
