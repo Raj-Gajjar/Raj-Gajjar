@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:chandvaniyaraj@gmail.com"><img src="https://img.shields.io/badge/Email-chandvaniyaraj%40gmail.com-red?style=flat&logo=gmail"></a>
-  <a href="tel:+918200968102"><img src="https://img.shields.io/badge/Phone-%2B91%208200968102-green?style=flat&logo=whatsapp"></a>
+
 </p>
 
 ---
@@ -81,7 +81,6 @@ MVC Architecture • CRUD Operations • RESTful API Development • API Integra
 ### 📫 Connect with Me
 
 - 📧 Email: chandvaniyaraj@gmail.com
-- 📱 Phone: +91 8200968102
 - 📍 Location: Ahmedabad, Gujarat, India
 - 🗣️ Languages: Gujarati, Hindi, English
 
