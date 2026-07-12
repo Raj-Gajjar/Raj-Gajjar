@@ -71,7 +71,7 @@ class Raj_Chandvaniya {
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 **Core Expertise:**  
-MVC Architecture • CRUD Operations • RESTful API Development • API Integration • Eloquent ORM • Database Design • Form Validations • Code Review
+Laravel Development • MVC Architecture • RESTful API Development • API Integration • Eloquent ORM • MySQL Database Design • CRUD Operations • Authentication & Authorization • Server-side Validation • Query Optimization • Report Generation • Bug Fixing • Git/GitHub • Agile Team Collaboration • Clean & Maintainable Code
 
 ---
 
