@@ -43,6 +43,7 @@ class Raj_Chandvaniya {
 - 🐞 A bit of a bug-hunter at heart — I enjoy digging into root causes instead of patching symptoms.
 - 🤝 Team player who's shipped projects with teams of 2 to 4 developers, always on schedule.
 - 🌱 Currently building a **Survey & Feedback Management Platform** at Bytezen Technology.
+- ⚡ Fun fact: I enjoy turning business requirements into reliable and maintainable web applications.
 - 📫 Always open to interesting Laravel/PHP projects — feel free to connect!
 
 ---
