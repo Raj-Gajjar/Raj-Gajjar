@@ -74,13 +74,6 @@ MVC Architecture • CRUD Operations • RESTful API Development • API Integra
 
 ---
 
-### 🎓 Education & Training
-
-- **Bachelor of Computer Applications (BCA)** — Bhakta Kavi Narsinh Mehta University, 2019 – 2022
-- **Professional Web Development Training** — Tops Technologies, Maninagar, Ahmedabad, Oct 2023 – Jun 2024
-
----
-
 ### 📫 Connect with Me
 
 - 📧 Email: chandvaniyaraj@gmail.com
